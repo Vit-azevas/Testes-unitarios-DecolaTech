@@ -1,6 +1,6 @@
 # Testes-unitarios-DecolaTech
 
-# DIO - Trilha .NET - Testes Unitários com C#
+# DIO - Trilha .NET - Testes Unitários com C# (por favor olhe o diagrama da wiki)
 www.dio.me
 
 ## Desafio de projeto
